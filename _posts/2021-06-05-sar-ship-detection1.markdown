@@ -10,7 +10,7 @@ venue: "IEEE Access"
 paper: /pdfs/sta.pdf
 code: https://github.com/sihan-shao/STA_code
 ---
-We developed a Lidar-based data collection system and applied filtering, clustering, PCA, and SVM techniques to improve the classification efficiency and accuracy of pedestrians and vehicles in point cloud data.
+We developed and applied a feature-level denoising methodology for synthetic aperture radar ship detection, leveraging soft thresholding and attention mechanisms, which enhanced detection precision across several neural network models by about 2%.
 
 
 [Paper PDF](//pdfs/sta.pdf){:target="_blank"}
