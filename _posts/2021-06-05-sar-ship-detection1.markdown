@@ -10,7 +10,7 @@ venue: "IEEE Access"
 paper: /pdfs/sta.pdf
 code: https://github.com/sihan-shao/STA_code
 ---
-We developed and applied a feature-level denoising methodology for synthetic aperture radar ship detection, leveraging soft thresholding and attention mechanisms, which enhanced detection precision across several neural network models by about 2%.
+Proposed a feature-level denoising methodology for synthetic aperture radar ship detection, leveraging soft thresholding and attention mechanisms, which enhanced detection precision across several neural network models by about 2%.
 
 
 [Paper PDF](//pdfs/sta.pdf){:target="_blank"}
