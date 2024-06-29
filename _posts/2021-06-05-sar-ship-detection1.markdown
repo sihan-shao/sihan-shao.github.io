@@ -5,7 +5,7 @@ date:   2021-09-03 22:21:59 +00:00
 image: /images/ship1.png
 categories: research
 author: "Rui Wang"
-authors: "<strong>Sihan Shao</strong>, Mengyu An, Jiayi Li, Shifeng Wang & Xiping Xu"
+authors: "Rui Wang <strong>Sihan Shao</strong>, Mengyu An, Jiayi Li, Shifeng Wang & Xiping Xu"
 venue: "IEEE Access"
 paper: /pdfs/sta.pdf
 code: https://github.com/sihan-shao/STA_code
