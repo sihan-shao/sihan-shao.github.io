@@ -9,4 +9,4 @@ authors: "Mengyu An, <strong>Sihan Shao</strong>, Mingyang Yu, Shifeng Wang & Xi
 venue: "Journal of Russian Laser Research"
 paper: /pdfs/lidar.pdf
 ---
-An approximate differentiable renderer for a compact, interpretable representation, which we call Fuzzy Metaballs. Our approximate renderer focuses on rendering shapes via depth maps and silhouettes. It sacrifices fidelity for utility, producing fast runtimes and high-quality gradient information that can be used to solve vision tasks.
+We developed a Lidar-based data collection system and applied filtering, clustering, PCA, and SVM techniques to improve the classification accuracy and efficiency of pedestrians and vehicles in point cloud data.
