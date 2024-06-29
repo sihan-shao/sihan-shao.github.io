@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Lidar Sensor-Based Object Recognition Using Machine Learning"
+date:   2021-07-03 22:21:59 +00:00
+image: /images/lidar.png
+categories: research
+author: "Rui Wang"
+authors: "Mengyu An, <strong>Sihan Shao</strong>, Mingyang Yu, Shifeng Wang & Xiping Xu"
+venue: "Journal of Russian Laser Research"
+paper: /pdfs/lidar.pdf
+---
+An approximate differentiable renderer for a compact, interpretable representation, which we call Fuzzy Metaballs. Our approximate renderer focuses on rendering shapes via depth maps and silhouettes. It sacrifices fidelity for utility, producing fast runtimes and high-quality gradient information that can be used to solve vision tasks.
