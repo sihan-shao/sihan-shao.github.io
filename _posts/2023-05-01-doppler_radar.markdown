@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A 1.5 GHz Doppler Radar"
-date:   2023-05-16 22:20:59 +00:00
+date:   2023-05-23 22:20:59 +00:00
 image: /images/doppler_radar.png
 categories: Aalto
 author: "Sihan Shao"
