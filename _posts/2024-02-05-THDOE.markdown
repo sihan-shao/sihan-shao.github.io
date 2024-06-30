@@ -10,4 +10,4 @@ venue: " 2024 International Conference on Infrared, Millimeter, and Terahertz Wa
 paper: /pdfs/IRMMW_paper_thz_doe.pdf
 code: https://version.aalto.fi/gitlab/shaos3/ad-thz-diffractiveoptics
 ---
-We explored the angular spectrum method (ASM) with automatic differentiation to optimize highly quantized diffractive optical elements (DOEs) for terahertz applications, facilitating precise control over radiation modulation while accounting for practical manufacturing limitations.
+We explored the angular spectrum method (ASM) with automatic differentiation to optimize highly quantized diffractive optical elements (DOEs) for terahertz applications, facilitating precise control over radiation modulation while accounting for practical manufacturing limitations of 3D printer.
