@@ -10,4 +10,4 @@ venue: " 2024 International Conference on Infrared, Millimeter, and Terahertz Wa
 paper: /pdfs/IRMMW_paper_thz_doe.pdf
 code: https://version.aalto.fi/gitlab/shaos3/ad-thz-diffractiveoptics
 ---
-We explore neural network-based optimization of diffractive optical elements (DOEs) in the THz range, leveraging automatic differentiation to accommodate the discrete material layers of 3D printers during phase profile synthesis. Our method enhances DOE design efficiency and flexibility, addressing fabrication constraints while optimizing radiation control.
+We explored the angular spectrum method (ASM) with automatic differentiation to optimize highly quantized diffractive optical elements (DOEs) for terahertz applications, facilitating precise control over radiation modulation while accounting for practical manufacturing limitations.
