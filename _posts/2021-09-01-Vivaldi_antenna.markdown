@@ -2,7 +2,7 @@
 layout: post
 title:  "Design of Vivaldi Array Antenna"
 date:   2023-09-16 22:20:59 +00:00
-image: /images/rim_antenna.png
+image: /images/Vivaldi.png
 categories: Aalto
 author: "Sihan Shao"
 subtitle: "With Compressed Sensing"
