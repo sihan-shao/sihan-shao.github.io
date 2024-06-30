@@ -9,4 +9,4 @@ authors: "Shanuka Gamaethige, Samu-Ville Pälli, Aleksi Tamminen, <strong>Sihan 
 venue: " 2024 International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz)"
 #paper: /pdfs/IRMMW_paper_thz_doe.pdf
 ---
-We explored the angular spectrum method (ASM) with automatic differentiation to optimize highly quantized diffractive optical elements (DOEs) for terahertz applications, facilitating precise control over radiation modulation while accounting for practical manufacturing limitations of 3D printer.
+The study examines how frequency diversity over time in a 340 GHz FMCW radar system with a dispersive hologram enhances target imaging and discrimination by capturing more detailed spatial information.
