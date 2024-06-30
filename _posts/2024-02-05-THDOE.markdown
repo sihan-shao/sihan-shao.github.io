@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Quantized THz Diffractive Optics Design via Automatic Differentiation"
+date:   2024-02-05 22:21:59 +00:00
+image: /images/doe.png
+categories: research
+author: "Sihan Shao"
+authors: "<strong>Sihan Shao</strong>, Aleksi Tamminen, Samu-Ville Pälli, Shanuka Gamaethige, Zachary Taylor"
+venue: " 2024 International Conference on Infrared, Millimeter, and Terahertz Waves (IR-MMW-THz)"
+paper: /pdfs/IRMMW_paper_thz_doe.pdf
+code: https://version.aalto.fi/gitlab/shaos3/ad-thz-diffractiveoptics
+---
+We explore neural network-based optimization of diffractive optical elements (DOEs) in the THz range, leveraging automatic differentiation to accommodate the discrete material layers of 3D printers during phase profile synthesis. Our method enhances DOE design efficiency and flexibility, addressing fabrication constraints while optimizing radiation control.
