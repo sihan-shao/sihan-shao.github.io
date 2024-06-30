@@ -10,4 +10,4 @@ slides: /pdfs/bluetooth_rim_antenna.pdf
 course: "ELEC-E4740 - Antennas Workshop D"
 ---
 
-With Ali Kourani. This project includes a smartwatch rim antenna design using CST and AWR software, emphasizing integration into the device's lateral faces. The optimal design was manufactured and tested with a hand phantom and battery cover, achieving a -1.0 dB realized gain and a 10m coverage area.
+With Ali Kourani. Designed a smartwatch rim antenna integrated into the device's lateral faces using CST and AWR software, tested with a hand phantom and battery cover.

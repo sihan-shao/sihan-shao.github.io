@@ -10,4 +10,4 @@ slides: /pdfs/Vivaldi_antenna.pdf
 course: "ELEC-E4740 - Antennas Workshop D"
 ---
 
-With Guo Wei and Zhenhan Wang. This project includes a smartwatch rim antenna design using CST and AWR software, emphasizing integration into the device's lateral faces. The optimal design was manufactured and tested with a hand phantom and battery cover, achieving a -1.0 dB realized gain and a 10m coverage area.
+With Guo Wei and Zhenhan Wang. Designed and manufactured a 4-Way Wilkinson Power Divider and Vivaldi array antenna with CST.
