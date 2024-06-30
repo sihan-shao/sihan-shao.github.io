@@ -6,7 +6,7 @@ image: /images/doe.png
 categories: research
 author: "Sihan Shao"
 authors: "<strong>Sihan Shao</strong>, Aleksi Tamminen, Samu-Ville Pälli, Shanuka Gamaethige, Zachary Taylor"
-venue: " 2024 International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz)"
+venue: " International Conference on Infrared, Millimeter, and Terahertz Waves (IRMMW-THz)"
 paper: /pdfs/IRMMW_paper_thz_doe.pdf
 code: https://version.aalto.fi/gitlab/shaos3/ad-thz-diffractiveoptics
 ---
