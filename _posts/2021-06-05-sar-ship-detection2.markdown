@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Lidar Sensor-Based Object Recognition Using Machine Learning"
-date:   2021-07-03 22:21:59 +00:00
-image: /images/lidar.png
+title:  "SAR Ship Detection from Complex Background Based on Dynamic Shrinkage Attention Mechanism"
+date:   2021-09-03 22:21:59 +00:00
+image: /images/dsa.png
 categories: research
-author: "Rui Wang"
-authors: "Mengyu An, <strong>Sihan Shao</strong>, Mingyang Yu, Shifeng Wang & Xiping Xu"
-venue: "Journal of Russian Laser Research"
-paper: /pdfs/lidar.pdf
+author: "Sihan Shao"
+authors: "<strong>Sihan Shao</strong>, Haoran Li, Shifeng Wang"
+venue: "2021 SAR in Big Data Era (BIGSARDATA)"
+paper: /pdfs/dsa.pdf
 ---
 We developed a Lidar-based data collection system and applied filtering, clustering, PCA, and SVM techniques to improve the classification efficiency and accuracy of pedestrians and vehicles in point cloud data.
