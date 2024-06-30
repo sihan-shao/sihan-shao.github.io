@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design of Smartwatch Bluetooth Rim Antenna"
-date:   2023-09-16 22:20:59 +00:00
+date:   2023-11-16 22:20:59 +00:00
 image: /images/rim_antenna.png
 categories: Aalto
 author: "Sihan Shao"
