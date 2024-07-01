@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Neural Dispersive Hologram for Computational Submillimeter-wave Imaging"
-date:   2024-07-25 22:21:59 +00:00
+date:   2024-06-25 22:21:59 +00:00
 image: /images/masterthesis.png
 categories: research
 author: "Sihan Shao"
