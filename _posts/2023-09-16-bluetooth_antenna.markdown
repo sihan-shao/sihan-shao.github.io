@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rim-Integrated Bluetooth Antenna for Smart Watches with Full-Metallic Structure"
-date:   2024-11-04 22:20:59 +00:00
+date:   2024-06-04 22:20:59 +00:00
 image: /images/rim_antenna.png
 categories: research
 author: "Ali Kourani"
