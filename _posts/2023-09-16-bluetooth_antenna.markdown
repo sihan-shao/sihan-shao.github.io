@@ -7,6 +7,7 @@ categories: Aalto
 author: "Sihan Shao"
 subtitle: "With Compressed Sensing"
 slides: /pdfs/bluetooth_rim_antenna.pdf
+paper: /pdfs/Rim_Antenna_paper_for_EuCAP_2025.pdf
 course: "ELEC-E4740 - Antennas Workshop D"
 ---
 
