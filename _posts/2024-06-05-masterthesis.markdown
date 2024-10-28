@@ -8,6 +8,6 @@ author: "Sihan Shao"
 authors: "<strong>Sihan Shao</strong>, advised by Prof. Zachary Taylor and D.Sc. Aleksi Tamminen."
 venue: " Master's Thesis"
 paper: /pdfs/Master_s_Thesis.pdf
-#code: https://version.aalto.fi/gitlab/shaos3/ad-thz-diffractiveoptics
+code: https://version.aalto.fi/gitlab/shaos3/NeuralDispersiveHologram
 ---
 Developed a multi-wavelength wave propagation simulation using PyTorch, co-optimized a sub-millimeter imaging system's hardware and neural networks, introduced a surrogate gradient method for optimizing quantized holograms, and validated the system with real measurements.
