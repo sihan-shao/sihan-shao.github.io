@@ -8,6 +8,7 @@ author: "Ali Kourani"
 authors: "Ali Kourani, <strong>Sihan Shao</strong>, Mohamed Raanen, Jan Bergman, Rasmus Luomaniemi, Jari Holopainen"
 venue: "European Conference on Antennas and Propagation 2025"
 paper: /pdfs/Rim_Antenna_paper_for_EuCAP_2025.pdf
+code: https://github.com/sihan-shao/EuCAP2025
 ---
 This paper explores the design, manufacturing, and a prototype measurement of a Bluetooth antenna integrated into the metallic rim of a smartwatch.
 
