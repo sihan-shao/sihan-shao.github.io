@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Image Deblurring with Neural Networks Using Fourier
-Optics"
+title:  "Image Deblurring with Neural Networks Using Fourier Optics"
 date:   2024-12-06 22:20:59 +00:00
 image: /images/DeblurNN_1.png
 categories: Tampere
