@@ -3,7 +3,7 @@ layout: post
 title:  "Image Deblurring with Neural Networks Using Fourier
 Optics"
 date:   2024-12-06 22:20:59 +00:00
-image: /images/DeblurNN.png
+image: /pdfs/DeblurNN.pdf
 categories: Tampere
 author: "Sihan Shao"
 subtitle: "With Compressed Sensing"
