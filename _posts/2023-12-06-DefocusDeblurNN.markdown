@@ -7,7 +7,7 @@ image: /images/DeblurNN.png
 categories: Tampere
 author: "Sihan Shao"
 subtitle: "With Compressed Sensing"
-slides: /pdfs/_posts/2024-06-05-masterthesis.markdown
+slides: /pdfs/report_MS_DSII.pdf
 course: "Fourier Optics Course Project"
 code: https://github.com/sihan-shao/DeblurNN/tree/master
 ---
