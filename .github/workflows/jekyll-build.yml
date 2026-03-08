@@ -17,10 +17,11 @@ jobs:
         with:
           ruby-version: '3.2'
 
-      - name: Install Jekyll
+      - name: Install Jekyll dependencies
         run: |
           gem install jekyll -v 3.10.0
           gem install jekyll-sitemap
+          gem install kramdown-parser-gfm
 
       - name: Build site
         run: jekyll build
