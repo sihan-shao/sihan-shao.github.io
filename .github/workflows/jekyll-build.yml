@@ -1,0 +1,27 @@
+name: Jekyll Build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install Jekyll dependencies
+        run: |
+          gem install jekyll -v 3.10.0
+          gem install jekyll-sitemap
+          gem install kramdown-parser-gfm
+
+      - name: Build site
+        run: jekyll build
